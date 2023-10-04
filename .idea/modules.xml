@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/ControleFluxo.iml" filepath="$PROJECT_DIR$/ControleFluxo.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco.iml" />
+>>>>>>> bc3c10b11b98dcba4b20b0f57bff102255355080
     </modules>
   </component>
 </project>
