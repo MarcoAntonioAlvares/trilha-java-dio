@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/DesafioControledeFluxo.iml" filepath="$PROJECT_DIR$/DesafioControledeFluxo.iml" />
-=======
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/ControleFluxo.iml" filepath="$PROJECT_DIR$/ControleFluxo.iml" />
-=======
       <module fileurl="file://$PROJECT_DIR$/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco.iml" />
->>>>>>> bc3c10b11b98dcba4b20b0f57bff102255355080
->>>>>>> 0c0b742ac6b37056d709a0bcb44e49ad8f94fd9f
     </modules>
   </component>
 </project>
